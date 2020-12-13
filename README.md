@@ -4,13 +4,11 @@
 This is read me file for verifiable test framework.
 
 
-How to open project?
+How to open a project?
 ========================================================
-1) Navigate to particular folder/directory where you need checkout this code.
-2) Checkout the code
-	Ex. git clone https://github.com/vikaschaudhari/verifiable-test-framework.git
-3) Open download project in editor
-	Ex. pycharm editor
+1. Navigate to a particular folder/directory where you need to check out this code.
+2. Check out the code Ex. git clone https://github.com/vikaschaudhari/verifiable-test-framework.git
+3. Open download project in editor Ex. pycharm editor
 
 
 
@@ -18,7 +16,7 @@ How to run?
 ========================================================
 1) Go to the tests directory in the editor.
 2) Select test_*.py file which you want to execute.
-3) Right click on it and select 'Run' option
+3) Right-click on it and select the 'Run' option
 4) You need to configure Python interpreter if not configured.
 
 OR
@@ -26,11 +24,11 @@ OR
 1) Open command prompt
 2) Navigate to the tests directory
 3) Run 'pytest' (NOTE: it will all files under tests directory)
-4) Run 'pytest <test-file-name>' which you want to execute. (NOTE: This will execute particular file)
+4) Run 'pytest <test-file-name>' which you want to execute. (NOTE: This will execute a particular file)
 
  Framework Structure:
 =======================================================
-This framework structure created for demo purpose only. 
+This framework structure created for demo purposes only.
 framework structure explained below.
 1) tests:
    In this directory, all test_*py files stored. 
